@@ -17,6 +17,6 @@ function tweeted(err, data, response) {
 	if (err){
 		console.log('Something went wrong');
 	} else {
-      console.log('Yipeeee it worked');
+      console.log('It worked');
   }
 }
