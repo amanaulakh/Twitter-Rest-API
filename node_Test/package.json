@@ -1,0 +1,25 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node demo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rainbow"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-node": "^1.16.2",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "jasmine": "^3.3.1",
+    "mocha": "^6.0.2",
+    "npm-run-all": "^4.1.5"
+  }
+}
