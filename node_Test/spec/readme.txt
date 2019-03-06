@@ -8,10 +8,10 @@
 
 //6. Create a folder "config.js", which store the configuration details for Twit API
 //			module.exports = {
-//		      consumer_key: '',
-//			  consumer_secret: '',
-//			  access_token_key: '',
-//			  access_token_secret: ''
+//		         consumer_key: '<enter key>',
+//			  consumer_secret: '<enter key>',
+//			 access_token_key: '<enter key>',
+//		  access_token_secret: '<enter key>'
 //			}
 			
 //7. Visit the https://developer.twitter.com/ and create an account. When done, click on the Keys and Access Tokens tab to view your consumer key/secret and access token key/secret. 
